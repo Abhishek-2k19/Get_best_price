@@ -93,4 +93,4 @@ while True:
     if(price<threshold):
         sendMail()
         threshold = price
-    time.sleep(30)
+    time.sleep(2*60*60)
