@@ -1,6 +1,6 @@
 # Get_Best_Price
 
-Hi! Do you wanna purchase your favourite item from popular e-commerce website like Flipkart, but still waiting for lowest price? Getting tired of opening and monitoring prices manually? Here comes  **Get_Best_Price** to  your rescue by automating this boring process of manually opening and checking prices. This application will not only monitor and plot beautiful price plots but also will take threshold value from you and will send you an email notification whenever prices falls below that threshold value. It can even be deployed on cloud platforms. Crazy? Let's get started
+Hi! Do you wanna purchase your favourite item from popular e-commerce website like Flipkart, but still waiting for best price? Getting tired of opening and monitoring prices manually? Here comes  **Get_Best_Price** to  your rescue by automating this boring process of manually opening and checking prices. This application will not only monitor and plot beautiful price plots but also will take threshold value from you and will send you an email notification whenever prices falls below that threshold value. It can even be deployed on cloud platforms. Crazy? Let's get started
 
 
 # Installation
