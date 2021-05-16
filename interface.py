@@ -31,6 +31,7 @@ window = QWidget()
 window.setWindowTitle("Get Best Price")
 window.setFixedWidth(1000)
 window.move(400,200)
+#window.setWindowState(QtCore.Qt.WindowMaximized)
 window.setStyleSheet("background:#2534c9;")
 
 grid = QGridLayout()
