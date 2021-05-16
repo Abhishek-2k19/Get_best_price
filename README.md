@@ -5,7 +5,7 @@ Hi! Do you wanna purchase your favourite item from popular e-commerce website li
 
 # Installation
 
-You will require Python3 for building this source code on you local machine. You can download the source code and install the dependencies given in **requirement.txt** . You may use pip to install this dependencies. **Recommended operating system**:It works fine on Linux Operating system.
+You will require Python3 for building this source code on you local machine. You can download the source code and install the dependencies given in **requirement.txt** . You may use pip to install this dependencies. **Recommended operating system**:It works fine on Linux Operating system. It also works in windows. In case GUI is not properly rendered in windows then comment line 32 and 33 and uncomment line 34 in interface.py and you are good to go!
 
 # One time configuration
 
